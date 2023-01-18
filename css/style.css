@@ -1,0 +1,19 @@
+.div1{
+height: 320px;
+  margin-left: 1450px;
+  position: relative;
+  top: 0;
+  width: 150px;
+}
+
+.img{
+    height: 300px;
+    position: relative;
+    padding-left: 800px;
+}
+
+.botones{
+    position: relative;
+    padding-left: 780px;
+}
+
